@@ -37,4 +37,4 @@ Poner en práctica conocimientos de administración de servidores Linux, configu
 
 ## Documentación completa
 
-La memoria completa del proyecto, con capturas de pantalla paso a paso de cada fase, está disponible en [`Proyecto_final_ASIR.pdf`](./) *(ajusta el nombre/enlace según el archivo que subas)*.
+La memoria completa del proyecto, con capturas de pantalla paso a paso de cada fase, está disponible en [`Proyecto_Apache_Ubuntu_Server_24.04.pdf`](./) *(ajusta el nombre/enlace según el archivo que subas)*.
