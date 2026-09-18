@@ -22,13 +22,13 @@ Herramientas y tecnologías
 Ubuntu Server 24.04 · Apache2 · OpenSSL · dnsmasq (DNS + DHCP) · iptables / iptables-persistent · nmap · netplan · PHP · VMware
 
 Fases del proyecto
-Configuración de adaptadores de red y máquinas virtuales
-Instalación y configuración inicial de Ubuntu Server 24.04
-Servidor DNS y DHCP con dnsmasq
-Instalación y configuración de Apache (Virtual Hosts)
-Certificados SSL/TLS y HTTPS
-Firewall con iptables
-Página web de prueba (HTML + PHP)
-Documentación completa
+  Configuración de adaptadores de red y máquinas virtuales
+  Instalación y configuración inicial de Ubuntu Server 24.04
+  Servidor DNS y DHCP con dnsmasq
+  Instalación y configuración de Apache (Virtual Hosts)
+  Certificados SSL/TLS y HTTPS
+  Firewall con iptables
+  Página web de prueba (HTML + PHP)
+  Documentación completa
 
 La memoria completa del proyecto, con capturas de pantalla paso a paso de cada fase, está disponible en Proyecto_Apache_Ubuntu_Server_24.04.pdf (ajusta el nombre/enlace según el archivo que subas).
